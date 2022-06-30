@@ -25,7 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  // font-weight: 700;
   @include heading-font;
 }
 
@@ -38,7 +38,7 @@ h6 {
   }
   h3.section-subheading {
     font-size: 16px;
-    font-weight: 400;
+    // font-weight: 400;
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
